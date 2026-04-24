@@ -1,14 +1,14 @@
-![Neon Snake Icon](/src/assets/neon-snake-main-icon_128x128.png)
-# Neon Snake
-Neon Snake is a sleek, mobile-optimized take on the classic snake game, built with React, Vite, and Tailwind CSS. Featuring intuitive swipe controls, vibrant neon visuals, and smooth animations, this project showcases modern frontend development—prioritizing performance, responsive design, and engaging user experiences. Play now and chase the high score!
+![Bitch Snake Icon](/src/assets/neon-snake-main-icon_128x128.png)
+# Bitch Snake
+Bitch Snake is a sleek, mobile-optimized take on the classic snake game, built with React, Vite, and Tailwind CSS. Featuring intuitive swipe controls, vibrant neon visuals, and smooth animations, this project showcases modern frontend development—prioritizing performance, responsive design, and engaging user experiences. Play now and chase the high score!
 
-![Neon Snake](https://img.shields.io/badge/Neon-Snake%20Game-green?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=FFFFFF) ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=Lucide&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF) ![Gameloft](https://img.shields.io/badge/Gameloft-000000?style=for-the-badge&logo=Gameloft&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF) 
+![Bitch Snake](https://img.shields.io/badge/Neon-Snake%20Game-green?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=FFFFFF) ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=Lucide&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF) ![Gameloft](https://img.shields.io/badge/Gameloft-000000?style=for-the-badge&logo=Gameloft&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF) 
 
 
 🌐 Website: [https://neon-snake-blond.vercel.app/](https://neon-snake-blond.vercel.app/)
 
 ## Screenshots
-![Neon Snake Screenshot](/src/assets/neon-snake-all-componets.jpg)
+![Bitch Snake Screenshot](/src/assets/neon-snake-all-componets.jpg)
 
 ## Tech Stack
 | Layer | Technology |

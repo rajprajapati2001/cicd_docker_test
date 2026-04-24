@@ -67,7 +67,7 @@ export const GameBoard = ({
 
       {status === 'START' && (
         <div className="absolute inset-0 z-20 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm rounded-lg">
-          <h1 className="text-4xl font-bold text-white mb-2 tracking-tighter">NEON SNAKE</h1>
+          <h1 className="text-4xl font-bold text-white mb-2 tracking-tighter">BITCH SNAKE</h1>
           <p className="text-zinc-400 text-sm mb-8 font-medium">Ready to play?</p>
           <button
             onClick={onStart}
