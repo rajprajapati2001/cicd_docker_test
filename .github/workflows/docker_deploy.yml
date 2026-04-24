@@ -17,6 +17,7 @@ jobs:
             key: ${{ secrets.EC2_SSH_KEY }}
             script: |
               cd /home/ubuntu
+              cd cicd_docker_test
               git pull origin main
               cd /path/to/your/docker-compose/directory
               docker-compose pull
