@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - name: Checkout code    
-         uses: actions/checkout@v4
+          uses: actions/checkout@v4
         - name: SSH to Server and Deploy Docker Container
           uses: appleboy/ssh-action@master
           with:
@@ -19,7 +19,6 @@ jobs:
               cd /home/ubuntu
               cd cicd_docker_test
               git pull origin main
-              cd /path/to/your/docker-compose/directory
               docker-compose pull
               docker-compose up -d --build
          
